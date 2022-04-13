@@ -1,0 +1,8 @@
+*.zip
+
+
+# frontendmentor .gitignore
+*.sketch
+*.xd
+*.fig
+.DS_Store
