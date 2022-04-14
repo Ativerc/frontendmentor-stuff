@@ -4,4 +4,4 @@
 
 This repo is for listing [my frontendmentor stuff](https://www.frontendmentor.io/profile/Ativerc).
 
-Deployed [here](https://avc-frontendmentor.netlify.app/).
+Deployed [here](https://avc-frontendmentor-stuff.netlify.app/).
