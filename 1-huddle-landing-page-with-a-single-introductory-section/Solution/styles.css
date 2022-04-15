@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    background-color: hsl(257, 40%, 49%);
+    background-image: url("./images/bg-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: 100vw;
+
+    font-family: 'Poppins';
+}
+
+main {
+    height: 100vh;
+}
+
+#heroimage {
+    width: 50%;
+    height: 50%;
+}
+
+article {
+    color: white;
+    font-size: 2rem;
+}
+
+button {
+    display: block;
+}
+
