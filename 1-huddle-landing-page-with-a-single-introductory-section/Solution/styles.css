@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap');
+
 
 body {
     background-color: hsl(257, 40%, 49%);
     background-image: url("./images/bg-mobile.svg");
     background-repeat: no-repeat;
     background-size: 100vw;
-
-    font-family: 'Poppins';
 }
 
 main {
@@ -21,9 +20,39 @@ main {
 article {
     color: white;
     font-size: 2rem;
+    text-align: center;
 }
 
-button {
+article h1 {
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+article p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.cta {
     display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: hsl(257, 40%, 49%);
+    font-size: 1.2rem;
+
+    background-color: #fff;
+    border: none;
+    border-radius: 2rem;
+    border-color: inherit;
+
+    box-shadow: 0 .5rem 1rem .2rem #412f6e;
 }
 
+.cta:hover {
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+}
+
+footer {
+    /* color: white; */
+}
