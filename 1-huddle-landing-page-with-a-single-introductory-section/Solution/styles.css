@@ -48,7 +48,8 @@ article p {
     box-shadow: 0 .5rem 1rem .2rem #412f6e;
 }
 
-.cta:hover {
+
+.cta:active, .cta:hover {
     background-color: hsl(300, 69%, 71%);
     color: white;
 }
