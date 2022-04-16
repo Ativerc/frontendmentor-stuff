@@ -12,9 +12,8 @@ main {
     height: 100vh;
 }
 
-#heroimage {
-    max-width: 80%;
-    height: auto;
+#logoimage {
+    max-width: 40%;
 }
 
 article {
@@ -52,6 +51,7 @@ article p {
 .cta:active, .cta:hover {
     background-color: hsl(300, 69%, 71%);
     color: white;
+    border-color: inherit;
 }
 
 .social-button i:hover {
