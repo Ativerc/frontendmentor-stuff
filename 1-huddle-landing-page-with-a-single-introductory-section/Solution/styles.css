@@ -13,13 +13,13 @@ main {
 }
 
 #heroimage {
-    width: 50%;
-    height: 50%;
+    max-width: 80%;
+    height: auto;
 }
 
 article {
     color: white;
-    font-size: 2rem;
+    font-size: 1.2rem;
     text-align: center;
 }
 
@@ -53,6 +53,6 @@ article p {
     color: white;
 }
 
-footer {
-    /* color: white; */
+.social-button i:hover {
+    color: hsl(300, 69%, 71%);
 }
