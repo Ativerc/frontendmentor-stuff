@@ -57,3 +57,27 @@ article p {
 .social-button i:hover {
     color: hsl(300, 69%, 71%);
 }
+
+
+@media (min-width: 992px) {
+    body {
+        background-image: url("./images/bg-desktop.svg")
+    }
+
+    .desktop-row {
+        display: flex;
+        column-gap: 3rem;
+    }
+
+    article {
+        text-align: left;
+    }
+
+    .heroimage {
+        max-width: 100%;
+    }
+
+    .desktop-col:last-child{
+        max-width: 40%;
+    }
+}
