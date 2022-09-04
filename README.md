@@ -16,10 +16,15 @@ Deployed [here](https://avc-frontendmentor-stuff.netlify.app/).
 
 
 ### Completion Checklist:
+- Take Screenshots for mobile and desktop solutions and put them in `project/Solution/screenshots`
 - Final commit message for a project should be `feat: <frontendmentor-challenge-name> complete`
   - Any fixes should have commit message as `fix: <Project Name> - <What was fixed>`
   - Use https://www.conventionalcommits.org wherever possible.
-- Update 
-  - the project's README.md with live URL and solution URL.
-  - root index.html with the links to the project.
-  - Commit message: `chore: Updated project's README.md and index.html`
+- Update: 
+  - the project's README.md with live and solution URLs, link to screenshots.
+  - the root index.html with the links to the project.
+- Commit message: `chore: Updated project's README.md and index.html`
+
+
+### META TODO:
+Write a script to automate these two checklists above. Hmmm!
