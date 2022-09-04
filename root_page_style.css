@@ -14,7 +14,7 @@ main h1 {
 }
 
 footer {
-    padding: 0;  /* CSS Specificity won't allow this. pico css has a body > footer ruleset that overrides this */
+    margin: 10rem 0 0 0;  
 }
 
 #footer-message {
