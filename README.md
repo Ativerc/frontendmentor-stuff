@@ -16,8 +16,10 @@ Deployed [here](https://avc-frontendmentor-stuff.netlify.app/).
 
 
 ### Completion Checklist:
-- 
 - Final commit message for a project should be `feat: <frontendmentor-challenge-name> complete`
   - Any fixes should have commit message as `fix: <Project Name> - <What was fixed>`
   - Use https://www.conventionalcommits.org wherever possible.
-- Update index.html with the links to the project and add commit message `chore: index.html updated with <project-name>'s links`
+- Update 
+  - the project's README.md with live URL and solution URL.
+  - root index.html with the links to the project.
+  - Commit message: `chore: Updated project's README.md and index.html`
